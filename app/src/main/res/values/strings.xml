@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrawlerImage</string>
+    <string name="show_saved">Збережені</string>
+    <string name="Parse">Парсити</string>
+    <string name="google">google</string>
+    <string name="ok">OK</string>
+    <string name="you_do_not_input_data">Ви не ввели дані</string>
+    <string name="depth_parse">Глибина парсингу</string>
+    <string name="number_page">Кількість сторінок</string>
+    <string name="cancel">Відмінити</string>
+    <string name="you_do_not_input_depth">!Ви не ввели глибину!</string>
+    <string name="You_do_not_input_max_page">!Ви не ввели максимальну кількість сторінок!</string>
+    <string name="data_add_and_parsed">Дані спарсені і збережені</string>
+    <string name="data_was_save">Дані успішно завантажені</string>
+    <string name="data_delete">Дані видаленні</string>
+</resources>
